@@ -1,0 +1,17 @@
+{
+  "name": "github-access-testing",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "homepage": "",
+  "licenses": [
+    {
+      "url": "about:blank",
+      "type": ""
+    }
+  ],
+  "dependencies": {
+      "testing-dummy":"autopulated/testing-dummy"
+      "other-testing-dummy":"autopulated/other-testing-dummy#0.0.1"
+  }
+}
