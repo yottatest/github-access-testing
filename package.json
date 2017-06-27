@@ -1,9 +1,9 @@
 {
   "name": "github-access-testing",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Github Access Testing",
   "author": "autopulated",
-  "homepage": "https://github.com/autopulated/github-access-testing",
+  "homepage": "https://github.com/monty-bot/github-access-testing",
   "licenses": [
     {
       "url": "about:blank",
@@ -11,7 +11,7 @@
     }
   ],
   "dependencies": {
-    "testing-dummy": "autopulated/testing-dummy",
-    "other-testing-dummy": "autopulated/other-testing-dummy#0.0.1"
+    "testing-dummy": "monty-bot/testing-dummy",
+    "other-testing-dummy": "monty-bot/other-testing-dummy#0.0.4"
   }
 }
